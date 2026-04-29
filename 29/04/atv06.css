@@ -1,0 +1,17 @@
+#titulo {
+  color: blue;
+}
+
+.paragrafo1 {
+  color: red;
+}
+
+.paragrafo2 {
+  color: green;
+  font-style: italic;
+}
+
+.paragrafo3 {
+  color: purple;
+  font-weight: bold;
+}
